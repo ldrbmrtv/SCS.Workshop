@@ -11,11 +11,13 @@
     <th>Докладчик</th>
     <th>Тема</th>
     <th>Timepad</th>
+    <th>Ссылки</th>
   </tr>
   <tr>
     <td>30.09.2020</td>
     <td>Резеда Хайдарова</td>
-    <td>Распределенные сверточные нейронные сети</td>
+    <td>Распределенные сверточные нейронные сети на кластере</td>
+    <td>-</td>
     <td>-</td>
   </tr>
   <tr>
@@ -23,8 +25,12 @@
     <td>Василий Пинкевич</td>
     <td>Введение в высокоуровневый синтез аппаратуры (HLS)</td>
     <td>https://scs-workshop.timepad.ru/event/1452516/</td>
+    <td>
+      <a href="https://youtu.be/mbheV9V8AbM">видео</a>, <a href="https://drive.google.com/file/d/161Lj0fVLHgSYLQMaz0Sn_3TaYUGWYvNI/view?usp=sharing">презентация</a>
+    </td>
   </tr>
   <tr>
+    <td>...</td>
     <td>...</td>
     <td>...</td>
     <td>...</td>
