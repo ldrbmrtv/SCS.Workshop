@@ -34,7 +34,9 @@
     <td>Родион Юрьев</td>
     <td>Выявление онтологий методами компаративного исследования</td>
     <td>https://scs-workshop.timepad.ru/event/1467174/</td>
-    <td><a href="https://youtu.be/qPqWD0BVHBE">видео</a></td>, <a href="https://drive.google.com/file/d/1-TaQNl5usd9eIs3orC0qo9ab__TRqTrD/view?usp=sharing">презентация</a>
+    <td>
+      <a href="https://youtu.be/qPqWD0BVHBE">видео</a>, <a href="https://drive.google.com/file/d/1-TaQNl5usd9eIs3orC0qo9ab__TRqTrD/view?usp=sharing">презентация</a>
+    </td>
   </tr>
   <tr>
     <td>...</td>
