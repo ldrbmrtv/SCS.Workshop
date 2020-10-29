@@ -33,8 +33,8 @@
     <td>28.10.2020</td>
     <td>Родион Юрьев</td>
     <td>Выявление онтологий методами компаративного исследования</td>
-    <td>-</td>
-    <td>-</td>
+    <td>https://scs-workshop.timepad.ru/event/1467174/</td>
+    <td><a href="https://youtu.be/qPqWD0BVHBE">видео</a></td>, <a href="https://drive.google.com/file/d/1-TaQNl5usd9eIs3orC0qo9ab__TRqTrD/view?usp=sharing">презентация</a>
   </tr>
   <tr>
     <td>...</td>
