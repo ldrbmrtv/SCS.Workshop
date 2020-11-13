@@ -44,7 +44,10 @@
     <td>Проблема выбора и метод оценки инструментов архитектурного уровня для компьютерных систем</td>
     <td>https://scs-workshop.timepad.ru/event/1478781/</td>
     <td>
-      <a href="https://youtu.be/Lq4iLHoDjiA">видео</a>, <a href="https://drive.google.com/file/d/1yLpI7JebOyZNF6DIuHwS_uQCkiGTxjLa/view?usp=sharing">презентация</a>
+      <a href="https://youtu.be/Lq4iLHoDjiA">видео</a>,
+      <a href="https://drive.google.com/file/d/1yLpI7JebOyZNF6DIuHwS_uQCkiGTxjLa/view?usp=sharing">презентация</a>,
+      <a href="https://www.researchgate.net/publication/334487308_The_Selection_Problem_and_Evaluating_Method_for_Architectural_Design_Tools_of_Embedded_Systems">статья</a>,
+      <a href="http://fppo.ifmo.ru/?page1=16&page2=52&page_d=1&page_d2=142415">диссертация</a>
     </td>
   </tr>
   <tr>
