@@ -43,7 +43,9 @@
     <td>Александр Пенской</td>
     <td>Проблема выбора и метод оценки инструментов архитектурного уровня для компьютерных систем</td>
     <td>https://scs-workshop.timepad.ru/event/1478781/</td>
-    <td></td>
+    <td>
+      <a href="https://youtu.be/Lq4iLHoDjiA">видео</a>, <a href="https://drive.google.com/file/d/1yLpI7JebOyZNF6DIuHwS_uQCkiGTxjLa/view?usp=sharing">презентация</a>
+    </td>
   </tr>
   <tr>
     <td>...</td>
