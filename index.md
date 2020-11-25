@@ -56,7 +56,8 @@
     <td>Одновременный выбор модели и оптимизация гиперпараметров алгоритмов кластеризации</td>
     <td>https://scs-workshop.timepad.ru/event/1487914/</td>
     <td>
-      <a href="https://youtu.be/CHew7Prum9Y">видео</a>
+      <a href="https://youtu.be/CHew7Prum9Y">видео</a>,
+      <a href="https://drive.google.com/file/d/16vKCGBmFyEcq_J89DTpHSWMV4qqlH6za/view?usp=sharing">презентация</a> 
     </td>
   </tr>
   <tr>
