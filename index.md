@@ -55,7 +55,9 @@
     <td>Вячеслав Шаламов</td>
     <td>Одновременный выбор модели и оптимизация гиперпараметров алгоритмов кластеризации</td>
     <td>https://scs-workshop.timepad.ru/event/1487914/</td>
-    <td></td>
+    <td>
+      <a href="https://youtu.be/CHew7Prum9Y">видео</a>
+    </td>
   </tr>
   <tr>
     <td>...</td>
