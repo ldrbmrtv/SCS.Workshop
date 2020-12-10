@@ -14,13 +14,6 @@
     <th>Ссылки</th>
   </tr>
   <tr>
-    <td>30.09.2020</td>
-    <td>Резеда Хайдарова</td>
-    <td>Распределенные сверточные нейронные сети на кластере</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td>14.10.2020</td>
     <td>Василий Пинкевич</td>
     <td>Введение в высокоуровневый синтез аппаратуры (HLS)</td>
@@ -59,6 +52,23 @@
       <a href="https://youtu.be/CHew7Prum9Y">видео</a>,
       <a href="https://drive.google.com/file/d/16vKCGBmFyEcq_J89DTpHSWMV4qqlH6za/view?usp=sharing">презентация</a> 
     </td>
+  </tr>
+  <tr>
+  <tr>
+    <td>09.12.2020</td>
+    <td>Резеда Хайдарова</td>
+    <td>Архитектура и методы вычислений для распределенной сверточной нейронной сети на кластере компьютеров с ограниченными вычислительными ресурсами</td>
+    <td>https://scs-workshop.timepad.ru/event/1502946/</td>
+    <td>
+      <a href="https://youtu.be/TxOt4lZw7sg">видео</a>
+    </td>
+  </tr>
+  <tr>
+    <td>23.12.2020</td>
+    <td>Екатерина Скорб</td>
+    <td>Инфохимия на пути к химическому компьютеру </td>
+    <td>https://scs-workshop.timepad.ru/event/1505043/</td>
+    <td></td>
   </tr>
   <tr>
     <td>...</td>
