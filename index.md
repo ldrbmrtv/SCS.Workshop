@@ -68,7 +68,7 @@
     <td>Екатерина Скорб</td>
     <td>Инфохимия на пути к химическому компьютеру </td>
     <td>https://scs-workshop.timepad.ru/event/1505043/</td>
-    <td></td>
+    <td>...</td>
   </tr>
   <tr>
     <td>...</td>
