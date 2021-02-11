@@ -77,7 +77,7 @@
     <td>Результаты исследования, проводимого в рамках совместного гранта между университетами ИТМО (Россия) и Тапар (Индия)</td>
     <td>https://scs-workshop.timepad.ru/event/1552131/</td>
     <td>
-      <a href="https://youtu.be/QzZn9M35vMw">видео</a>
+      <a href="https://youtu.be/QzZn9M35vMw">видео</a>,
       <a href="https://drive.google.com/file/d/1Mblu37R6ye42NLOQdyw3zV4eA8VP38Wc/view?usp=sharing">презентация</a> 
     </td>
   </tr>
