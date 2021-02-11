@@ -65,12 +65,22 @@
   <tr>
     <td>23.12.2020</td>
     <td>Екатерина Скорб</td>
-    <td>Инфохимия на пути к химическому компьютеру </td>
+    <td>Инфохимия на пути к химическому компьютеру</td>
     <td>https://scs-workshop.timepad.ru/event/1505043/</td>
     <td>
       <a href="https://youtu.be/BJCjH0M0z4Y">видео</a>
     </td>
   </tr>
+  <tr>
+    <td>10.02.2021</td>
+    <td>Иван Перл</td>
+    <td>Результаты исследования, проводимого в рамках совместного гранта между университетами ИТМО (Россия) и Тапар (Индия)</td>
+    <td>https://scs-workshop.timepad.ru/event/1552131/</td>
+    <td>
+      <a href="https://youtu.be/QzZn9M35vMw">видео</a>
+    </td>
+  </tr>
+  <tr>
   <tr>
     <td>...</td>
     <td>...</td>
