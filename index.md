@@ -88,7 +88,7 @@
 непрерывного спектра и устойчивые численные методы их устранения</td>
     <td>https://scs-workshop.timepad.ru/event/1562806/</td>
     <td>
-      <a href="https://youtu.be/NdLaf_gRPDE">видео</a>,
+      <a href="https://youtu.be/ivO53U6DePY">видео</a>,
       <a href="https://drive.google.com/file/d/1BFzLKpabubPCGnnzRjW-SJlx7-YBfuZM/view?usp=sharing">презентация</a> 
     </td>
   </tr>
