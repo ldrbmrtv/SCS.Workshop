@@ -93,11 +93,21 @@
     </td>
   </tr>
   <tr>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
+    <td>10.03.2021</td>
+    <td>Evgeny Kharlamov, Baifan Zhou</td>
+    <td>Semantically Enhanced ML-Solutions for Manufacturing</td>
+    <td>https://scs-workshop.timepad.ru/event/1578507/</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>24.03.2021</td>
+    <td>Игорь Калинин</td>
+    <td>Методы реализации взаимодействия объектов для ролеориентированной концепции программирования</td>
+    <td>https://scs-workshop.timepad.ru/event/1587867/</td>
+    <td>
+      <a href="https://youtu.be/P8ty3XALaqQ">видео</a>,
+      <a href="https://drive.google.com/file/d/1tYPWpp457Ax9yx3lyRvHc2quTYreWv07/view?usp=sharing">презентация</a>
+    </td>
   </tr>
 </table>
 
