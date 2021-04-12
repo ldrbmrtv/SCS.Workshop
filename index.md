@@ -108,6 +108,15 @@
       <a href="https://youtu.be/P8ty3XALaqQ">видео</a>,
       <a href="https://drive.google.com/file/d/1tYPWpp457Ax9yx3lyRvHc2quTYreWv07/view?usp=sharing">презентация</a>
     </td>
+    <tr>
+    <td>07.04.2021</td>
+    <td>Константин Брюханов</td>
+    <td>MLOps: Методы DevOps в мире Machine Learning </td>
+    <td>https://scs-workshop.timepad.ru/event/1608615/</td>
+    <td>
+      <a href="https://youtu.be/DdThkbh0VYo">видео</a>,
+      <a href="https://drive.google.com/file/d/1l_Tsc4VC-64ZIOBsGkOdrx63hNakMyqZ/view?usp=sharing">презентация</a>
+    </td>
   </tr>
 </table>
 
