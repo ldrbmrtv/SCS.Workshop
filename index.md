@@ -108,7 +108,8 @@
       <a href="https://youtu.be/P8ty3XALaqQ">видео</a>,
       <a href="https://drive.google.com/file/d/1tYPWpp457Ax9yx3lyRvHc2quTYreWv07/view?usp=sharing">презентация</a>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td>07.04.2021</td>
     <td>Константин Брюханов</td>
     <td>MLOps: Методы DevOps в мире Machine Learning </td>
