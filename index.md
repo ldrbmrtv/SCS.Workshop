@@ -112,11 +112,21 @@
   <tr>
     <td>07.04.2021</td>
     <td>Константин Брюханов</td>
-    <td>MLOps: Методы DevOps в мире Machine Learning </td>
+    <td>MLOps: Методы DevOps в мире Machine Learning</td>
     <td>https://scs-workshop.timepad.ru/event/1608615/</td>
     <td>
       <a href="https://youtu.be/DdThkbh0VYo">видео</a>,
       <a href="https://drive.google.com/file/d/1l_Tsc4VC-64ZIOBsGkOdrx63hNakMyqZ/view?usp=sharing">презентация</a>
+    </td>
+  </tr>
+  <tr>
+    <td>19.05.2021</td>
+    <td>Роман Екатериненко</td>
+    <td>На пути к быстрой и энергоэффективной аппаратуре для машинного обучения. Аналоговые вычисления в памяти, фотоника, спинтроника </td>
+    <td>https://scs-workshop.timepad.ru/event/1631878/</td>
+    <td>
+      <a href="https://youtu.be/3nMpoJ1UipA">видео</a>,
+      <a href="https://drive.google.com/file/d/1q7UYnZUj4Xopvx08OzKUIKCKCHhUGW-8/view?usp=sharing">презентация</a>
     </td>
   </tr>
 </table>
