@@ -129,6 +129,16 @@
       <a href="https://drive.google.com/file/d/1q7UYnZUj4Xopvx08OzKUIKCKCHhUGW-8/view?usp=sharing">презентация</a>
     </td>
   </tr>
+  <tr>
+    <td>26.05.2021</td>
+    <td>Николай Яцков</td>
+    <td>Программный пакет ORFhunteR для автоматического определения открытых рамок считывания в молекулах РНК человека</td>
+    <td>https://scs-workshop.timepad.ru/event/1652145/</td>
+    <td>
+      <a href="https://youtu.be/3derClpKHfc">видео</a>,
+      <a href="https://drive.google.com/file/d/1kGE6OKGrRPrFdrk3k2fAbnxsRgYQFVlV/view?usp=sharing">презентация</a>
+    </td>
+  </tr>
 </table>
 
 <p>Мы будем рады видеть вас в качестве докладчиков на последующих заседаниях семинара. Посмотреть план докладов и анонсировать свой можно в <a href="https://docs.google.com/document/d/1EtvN-66K8svSjhSH4FKasCWWHZsodVAQhUmV19-Q3e0/edit?usp=sharing">документе</a>.</p>
