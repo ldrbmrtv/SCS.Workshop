@@ -139,6 +139,15 @@
       <a href="https://drive.google.com/file/d/1kGE6OKGrRPrFdrk3k2fAbnxsRgYQFVlV/view?usp=sharing">презентация</a>
     </td>
   </tr>
+  <tr>
+    <td>02.06.2021</td>
+    <td>Игорь Бессмертный</td>
+    <td>Является ли квантовый компьютер компьютером?</td>
+    <td>https://scs-workshop.timepad.ru/event/1659266/</td>
+    <td>
+      <a href="https://youtu.be/gtz6moST1zE">видео</a>
+    </td>
+  </tr>
 </table>
 
 <p>Мы будем рады видеть вас в качестве докладчиков на последующих заседаниях семинара. Посмотреть план докладов и анонсировать свой можно в <a href="https://docs.google.com/document/d/1EtvN-66K8svSjhSH4FKasCWWHZsodVAQhUmV19-Q3e0/edit?usp=sharing">документе</a>.</p>
