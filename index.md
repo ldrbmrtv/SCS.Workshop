@@ -145,7 +145,8 @@
     <td>Является ли квантовый компьютер компьютером?</td>
     <td>https://scs-workshop.timepad.ru/event/1659266/</td>
     <td>
-      <a href="https://youtu.be/gtz6moST1zE">видео</a>
+      <a href="https://youtu.be/gtz6moST1zE">видео</a>,
+      <a href="https://drive.google.com/file/d/1BK6Tf-29MX_i0SLUFV-Nl7qqsqEcEMyU/view?usp=sharing">презентация</a>
     </td>
   </tr>
 </table>
