@@ -153,4 +153,4 @@
 
 <p>Мы будем рады видеть вас в качестве докладчиков на последующих заседаниях семинара. Посмотреть план докладов и анонсировать свой можно в <a href="https://docs.google.com/document/d/1EtvN-66K8svSjhSH4FKasCWWHZsodVAQhUmV19-Q3e0/edit?usp=sharing">документе</a>.</p>
 
-<p>Вступайе в нашу <a href="https://t.me/joinchat/BNW7qBUJEzQ6FeDIFCDPAQ">группу</a> в Telegram!</p>
+<p>Вступайе в нашу <a href="https://t.me/joinchat/1ZH04GYdYog4NjBi">группу</a> в Telegram!</p>
