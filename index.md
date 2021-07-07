@@ -150,6 +150,15 @@
       <a href="https://drive.google.com/file/d/1BK6Tf-29MX_i0SLUFV-Nl7qqsqEcEMyU/view?usp=sharing">презентация</a>
     </td>
   </tr>
+  <tr>
+    <td>14.07.2021</td>
+    <td>Кирилл Пшеничный</td>
+    <td>Теория совокупностей и её приложения для инженерии знаний</td>
+    <td>https://scs-workshop.timepad.ru/event/1703147/</td>
+    <td>
+      ...
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">Расписание на 2021-2022 учебный год</h2>
