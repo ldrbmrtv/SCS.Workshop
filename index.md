@@ -156,7 +156,8 @@
     <td>Теория совокупностей и её приложения для инженерии знаний</td>
     <td>https://scs-workshop.timepad.ru/event/1703147/</td>
     <td>
-      ...
+      <a href="https://youtu.be/tPp4zckX-cc">видео</a>,
+      <a href="https://drive.google.com/file/d/1BK6Tf-29MX_i0SLUFV-Nl7qqsqEcEMyU/view?usp=sharing">презентация</a>
     </td>
   </tr>
 </table>
