@@ -180,7 +180,7 @@
     <td>https://scs-workshop.timepad.ru/event/1703147/</td>
     <td>
       <a href="https://youtu.be/tPp4zckX-cc">видео</a>,
-      <a href="https://drive.google.com/file/d/1BK6Tf-29MX_i0SLUFV-Nl7qqsqEcEMyU/view?usp=sharing">презентация</a>
+      <a href="https://docs.google.com/presentation/d/18aI151NRBA-ipdSZky3CBsNOEdKRPV-K/edit?usp=sharing&ouid=110628487224702420518&rtpof=true&sd=true">презентация</a>
     </td>
   </tr>
 </table>
