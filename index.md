@@ -20,7 +20,8 @@
     <td>Согласованность данных в микросервисной облачной среде в условиях высоких нагрузок</td>
     <td>https://scs-workshop.timepad.ru/event/1763769/</td>
     <td>
-      <a href="https://youtu.be/_IPbq78GRUg">видео</a>
+      <a href="https://youtu.be/_IPbq78GRUg">видео</a>,
+      <a href="https://drive.google.com/file/d/1XBXE_arqz03IXTPYv2KSC8ISHGfeHXHe/view?usp=sharing">презентация</a>
     </td>
   </tr>
 </table>
