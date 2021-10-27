@@ -24,6 +24,15 @@
       <a href="https://drive.google.com/file/d/1XBXE_arqz03IXTPYv2KSC8ISHGfeHXHe/view?usp=sharing">презентация</a>
     </td>
   </tr>
+  <tr>
+    <td>27.10.2021</td>
+    <td>Ксения Бебех</td>
+    <td>Функциональности программируемых метаповерхностей с различными симметриями элементарных ячеек</td>
+    <td>https://scs-workshop.timepad.ru/event/1825820/</td>
+    <td>
+      ...
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">Прошедшие доклады</h2>
