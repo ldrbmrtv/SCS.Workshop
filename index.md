@@ -30,7 +30,7 @@
     <td>Функциональности программируемых метаповерхностей с различными симметриями элементарных ячеек</td>
     <td>https://scs-workshop.timepad.ru/event/1825820/</td>
     <td>
-      ...
+      <a href="https://youtu.be/lInLGGAZf_I">видео</a>
     </td>
   </tr>
 </table>
