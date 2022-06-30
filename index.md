@@ -40,6 +40,15 @@
       <a href="https://youtu.be/crdet1uaHd4">видео</a>
     </td>
   </tr>
+  <tr>
+    <td>29.06.2022</td>
+    <td>Вадим Соколов</td>
+    <td>Методы восстановления оптических свойств светорассеивающих материалов</td>
+    <td>https://scs-workshop.timepad.ru/event/2080674/</td>
+    <td>
+      <a href="https://youtu.be/rgBQ9vulQUU">видео</a>
+    </td>
+  </tr>
 </table>
 
 <details>
