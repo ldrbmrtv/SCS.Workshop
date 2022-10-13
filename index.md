@@ -2,8 +2,31 @@
 
 <p>Семинар проводится в дистанционном формате на платформе Zoom. Чтобы получать ссылки на трансляции, необходимо регистрироваться на события в Timepad.</p>
 
+<h2 align="center">2022-2023 учебный год</h2>
+
+<table align="center">
+  <tr>
+    <th>Дата</th>
+    <th>Докладчик</th>
+    <th>Тема</th>
+    <th>Timepad</th>
+    <th>Ссылки</th>
+  </tr>
+  <tr>
+    <td>21.10.2022</td>
+    <td>Павел Ефимов</td>
+    <td>Влияние межъязыкового выравнивания контекстуализированных векторных представлений на перенос обучения</td>
+    <td>https://scs-workshop.timepad.ru/event/2202533/</td>
+    <td>
+      ...
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">2021-2022 учебный год</h2>
 
+<details>
+<summary>Развернуть</summary>
 <table align="center">
   <tr>
     <th>Дата</th>
@@ -50,9 +73,12 @@
     </td>
   </tr>
 </table>
+</details>
+
+<h2 align="center">2020-2021 учебный год</h2>
 
 <details>
-<summary>2020-2021 учебный год</summary>
+<summary>Развернуть</summary>
 <table align="center">
   <tr>
     <th>Дата</th>
