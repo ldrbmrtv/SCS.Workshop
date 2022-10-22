@@ -18,7 +18,7 @@
     <td>Влияние межъязыкового выравнивания контекстуализированных векторных представлений на перенос обучения</td>
     <td>https://scs-workshop.timepad.ru/event/2202533/</td>
     <td>
-      ...
+      <a href="https://youtu.be/XwtTtZJOs-A">видео</a>
     </td>
   </tr>
 </table>
