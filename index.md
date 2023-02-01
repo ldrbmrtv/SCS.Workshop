@@ -21,6 +21,16 @@
       <a href="https://youtu.be/XwtTtZJOs-A">видео</a>
     </td>
   </tr>
+  <tr>
+    <td>31.01.2023</td>
+    <td>Алексей Денисов</td>
+    <td>Методы анализа рентгеновских изображений с использованием колоризации</td>
+    <td>https://scs-workshop.timepad.ru/event/2305641/</td>
+    <td>
+      <a href="https://docs.google.com/presentation/d/17z0EjRFjCtN3Eu_Y1LBy9VqkekkmbSx4/edit?usp=sharing&ouid=110628487224702420518&rtpof=true&sd=true">презентация</a>, 
+      <a href="https://youtu.be/-kwMwwYYN0E">видео</a>
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">2021-2022 учебный год</h2>
